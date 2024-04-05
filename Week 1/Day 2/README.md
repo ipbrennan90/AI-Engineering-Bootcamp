@@ -21,6 +21,7 @@ In this repository, we'll walk you through the steps to create a Large Language 
 
 Complete the notebook in this repository, or head to [this notebook](https://colab.research.google.com/drive/1VMyF3WOCETYbRx01z99QBjycB4cRwquv?usp=sharing) and follow along with the instructions!
 
+
 - 🤝 Breakout Room #2:
   2. 🏗️ Building Your First LLM App
   3. 🐳 Containerizing our App
