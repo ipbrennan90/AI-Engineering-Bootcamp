@@ -23,7 +23,7 @@ Complete the notebook in this repository, or head to [this notebook](https://col
 
 
 - 🤝 Breakout Room #2:
-  2. 🏗️ Building Your First LLM App
+  1. 🏗️ Building Your First LLM App
   3. 🐳 Containerizing our App
   4. 🚀 Deploying Your First LLM App
 
